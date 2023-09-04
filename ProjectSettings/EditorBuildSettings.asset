@@ -13,5 +13,15 @@ EditorBuildSettings:
       type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 5e49000e4b0d9004594595dec39a31a2,
       type: 2}
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: bb3e060f396ecab48816589034943ae6, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 9569c62016b2fd34abe63e630b6c96a2,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 1604a3b13e3e637459e8aa5ea4f53e90, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: aba26cf340e00c545881581fcae993d5, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 960435944d47ba14989d122d95f4a510,
+      type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 42d84915a4f0cdc47a1e89abefa55d9d,
       type: 2}
